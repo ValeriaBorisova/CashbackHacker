@@ -1,4 +1,4 @@
-[![Tests](https://github.com/ValeriaBorisova/CashbackHacker/actions/workflows/gradle.yml/badge.svg)](https://github.com/ValeriaBorisova/CashbackHacker/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/ValeriaBorisova/CashbackHacker/actions/workflows/gradle.yml/badge.svg?branch=testng)](https://github.com/ValeriaBorisova/CashbackHacker/actions/workflows/gradle.yml)
 
 * Task description 
 
