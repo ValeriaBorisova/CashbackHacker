@@ -1,45 +1,45 @@
-Thumbs.db *
+Thumbs.db*
 .DS_Store
 HELP.md
 .gradle
-строить/
+build/
 
-### СТС ###
+### STS ###
 .apt_generated
 .classpath
 .factorypath
-.проект
-.настройки
+.project
+.settings
 .springBeans
-.sts4-кеш
+.sts4-cache
 
 ### IntelliJ IDEA ###
 .idea
-* .iws
-* .iml
-* .ipr
-вне/
+*.iws
+*.iml
+*.ipr
+out/
 
 ### NetBeans ###
-/ nbproject / частный /
-/ nbbuild /
-/ dist /
-/ nbdist /
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
 /.nb-gradle/
 
-### Код VS ###
-.vscode /
+### VS Code ###
+.vscode/
 
-### Файлы пакета ###
-*.банка
-*.война
-* .nar
-*.ухо
-* .zip
-* .tar.gz
-* .rar
+### Package Files ###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
 
-### Исключения ###
-!Gradle / обертка / gradle-wrapper.jar
-!** / src / main / **
-!** / src / test / **
+### Exclusions ###
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
